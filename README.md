@@ -1,6 +1,6 @@
-# PSPC documentation
+# Booking documentation
 
-Documenting CDS and PSPC's work to help business find Canadian public sector opportunities.
+Documenting CDS work into booking appointments with the Government of Canada.
 
 ## Editing the documentation
 
