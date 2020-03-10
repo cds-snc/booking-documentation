@@ -8,7 +8,7 @@ en:
   repo: "Repository"
   language: "Français"
   homepage-slug: "/home/"
-  site-name: "Helping businesses find Canadian public sector procurement opportunities"
+  site-name: "Booking Discovery Documentation"
 fr:
   homepage-tag-line: ""
   cds-snc: "Service numérique canadien"
@@ -19,4 +19,4 @@ fr:
   repo: "Référentiel"
   language: "English"
   homepage-slug: "/accueil/"
-  site-name: "Aider les entreprises à trouver des possibilités d’affaires avec le secteur public canadien"
+  site-name: "FR Booking Discovery Documentation"

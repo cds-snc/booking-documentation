@@ -2,21 +2,18 @@ en:
   home:
     name: "Home"
     url: "/home/"
-  background:
-    name: "Background"
-    url: "/background/"
-  research:
-    name: "Discovery research and findings"
-    url: "/discovery-research/"
-  moving-forward:
-    name: "Considerations for moving forward"
-    url: "/moving-forward/"
-  titles-and-descriptions:
-    name: "How to improve titles and descriptions"
-    url: "/titles-and-descriptions/"
-  team-news:
-    name: "Team news"
-    url: "/team-news/"
+  context:
+    name: "Context"
+    url: "/context/"
+  accessibility:
+    name: "Accessibility"
+    url: "/accessibility/"
+  design-patterns:
+    name: "Design Patterns"
+    url: "/design-patterns/"
+  buy-vs-build:
+    name: "Buy vs Build"
+    url: "/buy-vs-build/"
   contact:
     name: "Contact"
     url: "/contact/"
@@ -24,21 +21,18 @@ fr:
   home:
     name: "Accueil"
     url: "/accueil/"
-  background:
+  context:
     name: "Contexte"
     url: "/contexte/"
-  research:
-    name: "Recherche de la phase découverte et conclusions"
-    url: "/recherche-de-la-phase-decouverte/"
-  moving-forward:
-    name: "Aspects à considérer"
-    url: "/aspects-a-considerer/"
-  titles-and-descriptions:
-    name: "Comment améliorer les titres et les descriptions"
-    url: "/titres-et-descriptions/"
-  team-news:
-    name: "Nouvelles d'équipe"
-    url: "/nouvelles-dequipe/"
+  accessibility:
+    name: "FR Accessibility"
+    url: "/fr-accessibility/"
+  design-patterns:
+    name: "FR Design Patterns"
+    url: "/fr-design-patterns/"
+  buy-vs-build:
+    name: "FR Buy vs Build"
+    url: "/fr-buy-vs-build/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"
