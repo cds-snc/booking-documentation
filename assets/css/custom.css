@@ -1,9 +1,9 @@
-p {
+.main-content p {
     margin-top: 1.8em;
     margin-bottom: 0.2em;
 }
 
-ul {
+.main-content ul {
     margin-top: 0.3em;
 }
 
