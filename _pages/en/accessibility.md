@@ -6,8 +6,6 @@ permalink: "/accessibility/"
 trans_url: "/fr-accessibility/"
 ---
 
-### Accessibility issues in booking software
-
 As part of our Discovery work, we surveyed existing booking software to evaluate if any of it might be suitable for use by the Government of Canada. One aspect of this evaluation was an accessibility audit. We looked at the following sites: [Calendly](https://calendly.com/), [Easy Appointments](https://demo.easyappointments.org/), [Embassy Scheduler](http://cts-ca.anzus.solutions/infoschedule?customer=embassyca&wf=appointments&action=schedule&locationId=LDN), [Airbnb date picker](https://www.airbnb.ca/), [ScheduleOnce/InviteOnce](https://www.oncehub.com/), [Schedulista](https://www.schedulista.com/), [Doodle](https://doodle.com/), and [Jane](https://jane.app/).
 
 We tried to use each website with 2 different modes of interaction: a) a screen reader (Voiceover), and b) a keyboard and no mouse. For each product we looked at:
