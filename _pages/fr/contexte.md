@@ -54,4 +54,16 @@ Nous avons identifié les variables suivantes qui peuvent rendre plus complexes 
 - **La demande de renseignements personnels supplémentaires**, au moment où un participant prend rendez-vous, augmente la sensibilité des données. Par exemple, demander une adresse résidentielle ou une langue de préférence en plus d’un nom et d’un courriel.
 - **Les rendez-vous pour des services ou des prestations qui sont délicats en soi.** Par exemple, lorsque l’on reçoit une prestation médicale ou de chômage. 
 Les approbations asynchrones requises pour prendre rendez-vous entraînent des retards dans le processus de prise de rendez-vous. Cela limite l’expérience des utilisateurs finaux parce qu’ils ne sont pas en mesure de confirmer leur rendez-vous en temps réel. 
+- **Les rendez-vous qui exigent la participation de plusieurs participants ou fonctionnaires** augmentent la coordination des horaires. Par exemple, des examens ou des cérémonies de citoyenneté. 
+- **Les prises de rendez-vous au milieu d’une prestation de service.** Les rendez-vous sont initiés par le gouvernement, ce qui signifie qu’il faut trouver un moyen d’aviser les participants lorsqu’ils ont besoin de prendre rendez-vous et de les jumeler dans un système de gestion des cas.
+- **Les rendez-vous avec des fonctionnaires particuliers** nécessitent plus de coordination que ceux pris avec n’importe quel employé qui se trouve dans un bureau.
+Les services offerts uniquement sans rendez-vous sont susceptibles de subir plus de changements culturels que ceux offerts sur rendez-vous par des voies non numériques. 
+- **Le lieu du rendez-vous, du moins complexe** au plus complexe : dans un bureau doté d’un personnel, dans une salle qui doit être réservée, dans un lieu éloigné ou dans une maison où il est nécessaire de prévoir un temps de déplacement. 
+- Plus **l’on impose des exigences liées à l’admissibilité qui doivent être satisfaites avant de prendre rendez-vous**, plus la situation est complexe.
+
+#### Le problème lié aux intégrations techniques 
+Les intégrations techniques dans les anciens systèmes, qui visent à récupérer les données de l’utilisateur final, peuvent prendre beaucoup de temps et constituer une priorité organisationnelle moindre, car il est souvent très difficile d’apporter des modifications aux anciens systèmes. 
+
+Le passage à un nouveau système ou la gestion de plusieurs systèmes peut augmenter la charge cognitive et réduire la productivité. Les entrevues avec des personnes qui travaillent au Government Digital Service (Service numérique du gouvernement) au Royaume-Uni ont montré que les solutions devaient soit s’intégrer aux systèmes existants, soit s’intégrer aux nouveaux systèmes pour devenir la source unique de vérité. En raison des longs processus d’intégration directe, nous avons exploré la possibilité de créer une seule source de vérité.
+
 
