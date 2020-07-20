@@ -2,7 +2,7 @@
 layout: page
 title:  "Considérations relatives à l’approvisionnement"
 lang: fr
-permalink: "/lapprovisionnement/"
+permalink: "/approvisionnement/"
 trans_url: "/buy-vs-build/"
 ---
 
