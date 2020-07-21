@@ -3,7 +3,7 @@ layout: page
 title:  "Accessibility"
 lang: en
 permalink: "/accessibility/"
-trans_url: "/fr-accessibility/"
+trans_url: "/accessibilite/"
 ---
 
 As part of our Discovery work, we surveyed existing booking software to evaluate if any of it might be suitable for use by the Government of Canada. One aspect of this evaluation was an accessibility audit. We looked at eight of the leading appointment booking applications.
