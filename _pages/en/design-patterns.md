@@ -3,7 +3,7 @@ layout: page
 title:  "Design Patterns"
 lang: en
 permalink: "/design-patterns/"
-trans_url: "/modele-de-conception/"
+trans_url: "/modeles-de-conception/"
 ---
 
 
