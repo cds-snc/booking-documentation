@@ -12,8 +12,8 @@ en:
     name: "Design Patterns"
     url: "/design-patterns/"
   buy-vs-build:
-    name: "Buy vs Build"
-    url: "/buy-vs-build/"
+    name: "Procurement considerations"
+    url: "/procurement-considerations/"
   contact:
     name: "Contact"
     url: "/contact/"
