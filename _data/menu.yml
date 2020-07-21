@@ -25,14 +25,14 @@ fr:
     name: "Contexte"
     url: "/contexte/"
   accessibility:
-    name: "FR Accessibility"
-    url: "/fr-accessibility/"
+    name: "Accessibilité"
+    url: "/accessibilite/"
   design-patterns:
-    name: "FR Design Patterns"
-    url: "/fr-design-patterns/"
+    name: "Modèle de conception"
+    url: "/modele-de-conception/"
   buy-vs-build:
-    name: "FR Buy vs Build"
-    url: "/fr-buy-vs-build/"
+    name: "Approvisionnement"
+    url: "/approvisionnement/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"
