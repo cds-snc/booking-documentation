@@ -3,7 +3,7 @@ layout: page
 title:  "Considérations relatives à l’approvisionnement"
 lang: fr
 permalink: "/approvisionnement/"
-trans_url: "/buy-vs-build/"
+trans_url: "/procurement-considerations/"
 ---
 
 ## Considérations relatives à l’approvisionnement
