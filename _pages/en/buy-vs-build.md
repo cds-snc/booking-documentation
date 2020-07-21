@@ -3,7 +3,7 @@ layout: page
 title:  "Procurement Considerations"
 lang: en
 permalink: "/procurement-considerations/"
-trans_url: "/considerations-relatives-a-l’approvisionnement/"
+trans_url: "/considerations-relatives-a-lapprovisionnement/"
 ---
 
 ## Procurement considerations
