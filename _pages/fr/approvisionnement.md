@@ -2,7 +2,7 @@
 layout: page
 title:  "Considérations relatives à l’approvisionnement"
 lang: fr
-permalink: "/approvisionnement/"
+permalink: "/considerations-relatives-a-lapprovisionnement/"
 trans_url: "/procurement-considerations/"
 ---
 
