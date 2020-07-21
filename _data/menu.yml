@@ -28,11 +28,11 @@ fr:
     name: "Accessibilité"
     url: "/accessibilite/"
   design-patterns:
-    name: "Modèle de conception"
-    url: "/modele-de-conception/"
+    name: "Modèles de conception"
+    url: "/modeles-de-conception/"
   buy-vs-build:
-    name: "Approvisionnement"
-    url: "/approvisionnement/"
+    name: "Considérations relatives à l'approvisionnement"
+    url: "/considerations-relatives-a-lapprovisionnement/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"
