@@ -1,7 +1,4 @@
 en:
-  home:
-    name: "Home"
-    url: "/home/"
   context:
     name: "Context"
     url: "/context/"
@@ -18,9 +15,6 @@ en:
     name: "Contact"
     url: "/contact/"
 fr:
-  home:
-    name: "Accueil"
-    url: "/accueil/"
   context:
     name: "Contexte"
     url: "/contexte/"
