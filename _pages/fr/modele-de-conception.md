@@ -6,12 +6,10 @@ permalink: "/modeles-de-conception/"
 trans_url: "/design-patterns/"
 ---
 
-## Modèles de conception
-
-### Analyse comparative
+## Analyse comparative
 Il y a certainement quelques modèles de conception utiles à prendre en compte, basés sur l’heuristique et les pratiques exemplaires. Nous avons mené une analyse comparative pour explorer les modèles de conception, et cela a soulevé quelques questions intéressantes. Les principes suivants peuvent raisonnablement être dérivés de l’analyse comparative.
 
-### Réduire la charge cognitive
+## Réduire la charge cognitive
 - **Supposons que les participants sont stressés** avec peu de charge cognitive lors de la conception d’une application de prise de rendez-vous. Nous supposons que le fait de vérifier le prochain rendez-vous disponible aidera un participant à prendre d’autres décisions liées au rendez-vous, comme choisir un lieu ou choisir une plage horaire. 
 - **Réduire le nombre d’étapes nécessaires** pour voir la disponibilité. Nous supposons que les participants ont probablement certains critères et qu’ils doivent respecter un horaire ou un emplacement pour pouvoir prendre rendez-vous. Si la conception alourdit leur charge cognitive alors qu’ils cherchent simplement une disponibilité, ils peuvent oublier leurs critères préexistants ou quitter. 
 - **Utiliser la recherche menée auprès des utilisateurs réels** pour cerner les instructions sur les étapes requises avant ou après la prise de rendez-vous. Dans certains cas, les participants savent peut-être déjà ce qu’ils doivent faire et les instructions ne font que les ralentir. Dans d’autres cas, particulièrement si les participants sont en train de prendre le rendez-vous, des instructions inadéquates pourront les amener à se présenter à des rendez-vous avec des documents ou des renseignements manquants, ce qui fera perdre à chacun un temps précieux.
@@ -25,18 +23,7 @@ Il y a certainement quelques modèles de conception utiles à prendre en compte,
 - **Cherchons à montrer la première heure disponible** par défaut lors de l’affichage des heures disponibles. Ne forcez pas les personnes à perdre leur temps à faire des sélections inutiles.
 - **Cherchons à afficher les plages horaires disponibles dès le début.** De nombreux calendriers obligent les utilisateurs à choisir une date avant d’afficher les heures disponibles pour cette date. Si aucune de ces heures ne convient au participant, il doit retourner en arrière et choisir une autre date pour voir si des plages horaires peuvent fonctionner. Cela devient rapidement contraignant.
 
-### Principes fondamentaux d’accessibilité
+## Principes fondamentaux d’accessibilité
 - **Commencer à concevoir pour les mobiles dès le début.** Surtout si vous utilisez une sorte de calendrier visuel, l’ajuster à un écran d’appareil mobile sera beaucoup plus difficile que pour un ordinateur de bureau.
 - **S’assurer que tout peut être parcouru au moyen du clavier** uniquement. D’après notre analyse, cela est rare.
 - **S’assurer que tous les textes sont structurés et ordonnés** de manière à ce qu’ils soient logiques pour les personnes qui utilisent des lecteurs d’écran. Il s’agissait aussi d’une embûche courante pour les applications de prise de rendez-vous que nous avons examinées.
-
-### Maquettes conceptuelles 
-
-Nous avons commencé par créer des scénarios représentant les étapes nécessaires pour prendre et gérer les rendez-vous et nous avons choisi quelques écrans à maquetter. Ce processus a révélé de nombreuses lacunes dans notre compréhension des processus opérationnels et a renforcé l’importance de savoir l’endroit où tous les processus opérationnels « traitent » des rendez-vous. 
-
-Nous avons utilisé les maquettes conceptuelles comme base de conversation avec les utilisateurs du gouvernement, mais il reste encore du travail à faire.
-
-Cependant, elles sont fondées sur de solides pratiques exemplaires, et nous mettons les maquettes conceptuelles à la disposition d’autres équipes gouvernementales au cas où elles les aideraient.
-
-**AVERTISSEMENT :** ELLES N’ONT PAS ÉTÉ TESTÉES AUPRÈS DES UTILISATEURS. Elles servent simplement à consolider les pratiques exemplaires.
-
