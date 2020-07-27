@@ -6,8 +6,6 @@ permalink: "/accessibilite/"
 trans_url: "/accessibility/"
 ---
 
-## Accessibilité
-
 Dans le cadre de nos travaux de découverte, nous avons examiné les logiciels de prise de rendez-vous existants afin de déterminer s’ils pourraient être utilisés par le gouvernement du Canada. L’un des aspects de cette évaluation était un audit de l’accessibilité. Nous avons examiné huit des principales demandes de prise de rendez-vous.
 
 Nous avons essayé d’utiliser chaque site Web avec deux modes d’interaction différents : un lecteur d’écran (Voiceover) ainsi qu’un clavier sans souris. Pour chaque produit, nous avons examiné :
