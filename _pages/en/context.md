@@ -6,7 +6,7 @@ permalink: "/context/"
 trans_url: "/contexte/"
 ---
 
-### Summary/Overview
+## Summary/Overview
 
 Government appointments for synchronous interactions can include anything from in-person appointments like citizenship tests or getting fingerprints and photographs taken for Visas or Work Permits, to telephone calls to find out details for a decision, or maybe even eventually video conference. 
 
@@ -32,12 +32,11 @@ Use cases in order of time spent investigating:
 - Book a facility or location.
 
 
-### Common vocabulary
+## Common vocabulary
 
 Different terms are used in different departments and service contexts for the people who are involved in appointments. For our purposes, we settled on the following provisional terms so we could avoid confusion.
 
 - **End-user or Attendee:** People who need appointments to accomplish a goal. Could be a member of the public or a government employee, may or may not be a Canadian citizen or resident.
-
 - **Booking agent:** People who are involved in an aspect of booking but don't interact with the attendee or manage a team.
 - **Service agent:** People who directly interact with the attendee. When they book an appointment they are scheduling their own time. 
 - **Team manager:** People who manage teams of service and/or booking agents.
@@ -46,10 +45,9 @@ Different terms are used in different departments and service contexts for the p
   - To provide a benefit or service to an end-user
   - To help an end-user change service channels
   - To help government schedule job interviews or language assessments
- 
 - **Service context:** The specific service and context that might use a booking application. For example, citizenship tests.  
 
-### Complexity variables
+## Complexity variables
 
 We identified the following variables that can add complexity to making and managing appointments:
 
@@ -62,10 +60,9 @@ We identified the following variables that can add complexity to making and mana
 - **Appointments with a specific civil-servants** require more coordination than those with anyone present at a staffed desk.
 - **Services only providing walk-ins likely experience more cultural change** than those providing appointment booking through non-digital channels. 
 - **Location of appointment, from least complex to most:** at a staffed desk, in a room that needs to be booked, at a remote location or at a home where travel time is needed.
-
 - The more **eligibility requirements that need to be met before booking** the appointment, the more complex.
 
-#### The problem with technical integrations
+### The problem with technical integrations
 Technical integrations with legacy systems to retrieve end-user data can be prohibitively time-consuming and a lower organizational priority, since legacy systems can often be very onerous to make changes to. 
 
 Switching to a new system or managing multiple systems can increase cognitive load and decrease productivity. Interviews with individuals in the Government Digital Service in the UK noted that solutions either had to integrate with existing systems or new systems needed to become the single source of truth. Due to the lengthy direct integration processes, we explored creating a single source of truth.
