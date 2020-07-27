@@ -6,9 +6,7 @@ permalink: "/contexte/"
 trans_url: "/context/"
 ---
 
-## Contexte de l’outil de prise de rendez-vous
-
-### Résumé/vue d’ensemble
+## Résumé/vue d’ensemble
 Les rendez-vous du gouvernement pour des interactions synchrones peuvent comprendre des rendez-vous en personne, comme des examens de citoyenneté, des prise d’empreintes digitales et de photo pour des visas ou des permis de travail, des appels téléphoniques pour obtenir des détails sur une décision, ou peut-être même des vidéoconférences. 
 
 Essentiellement, la réussite d’une prise de rendez-vous et d’une participation à un rendez-vous implique :
@@ -31,7 +29,7 @@ L’équipe a identifié six cas d’utilisation où une demande de prise de ren
 5. Renseignements en tant que service;
 6. Réserver une installation ou un emplacement.
 
-### Vocabulaire commun 
+## Vocabulaire commun 
 
 Différents termes sont utilisés dans différents ministères et contextes de service pour les personnes à qui l’on a accordé un rendez-vous. En ce qui nous concerne, nous nous sommes mis d’accord sur les termes provisoires suivants afin d’éviter toute confusion.
 
@@ -61,7 +59,7 @@ Les services offerts uniquement sans rendez-vous sont susceptibles de subir plus
 - **Le lieu du rendez-vous, du moins complexe** au plus complexe : dans un bureau doté d’un personnel, dans une salle qui doit être réservée, dans un lieu éloigné ou dans une maison où il est nécessaire de prévoir un temps de déplacement. 
 - Plus **l’on impose des exigences liées à l’admissibilité qui doivent être satisfaites avant de prendre rendez-vous**, plus la situation est complexe.
 
-#### Le problème lié aux intégrations techniques 
+### Le problème lié aux intégrations techniques 
 Les intégrations techniques dans les anciens systèmes, qui visent à récupérer les données de l’utilisateur final, peuvent prendre beaucoup de temps et constituer une priorité organisationnelle moindre, car il est souvent très difficile d’apporter des modifications aux anciens systèmes. 
 
 Le passage à un nouveau système ou la gestion de plusieurs systèmes peut augmenter la charge cognitive et réduire la productivité. Les entrevues avec des personnes qui travaillent au Government Digital Service (Service numérique du gouvernement) au Royaume-Uni ont montré que les solutions devaient soit s’intégrer aux systèmes existants, soit s’intégrer aux nouveaux systèmes pour devenir la source unique de vérité. En raison des longs processus d’intégration directe, nous avons exploré la possibilité de créer une seule source de vérité.
