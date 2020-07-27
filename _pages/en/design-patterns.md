@@ -6,8 +6,6 @@ permalink: "/design-patterns/"
 trans_url: "/modeles-de-conception/"
 ---
 
-
-# Comparative Analysis
 There are definitely some helpful design patterns to consider, based on heuristics and best practices. We conducted a comparative analysis to explore design patterns, and it raised some interesting questions. The following principles can be reasonably derived from the comparative analysis.
 
 ## Reduce cognitive load
