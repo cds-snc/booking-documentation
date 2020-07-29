@@ -1,1 +1,1 @@
-{% include /_pages/en/content.md %}
+{% include _pages/en/content.md %}
