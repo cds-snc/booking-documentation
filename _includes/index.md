@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Welcome - Bienvenue"
+---
+
 Welcome to the Canadian Digital Service documentation for our discovery on a booking platform product. 
 [Continue in english](https://cds-snc.github.io/booking-documentation/context)
 
