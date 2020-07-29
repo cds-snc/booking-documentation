@@ -1,1 +1,1 @@
-{% include context.md %}
+{% include home.md %}
